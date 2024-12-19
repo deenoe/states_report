@@ -1,6 +1,4 @@
-![state_dashboard](https://github.com/user-attachments/assets/c844fae0-ead4-4474-ae91-8acd50bde896)
-
-### Features of the Power BI Dashboard:
+## Features of the Power BI Dashboard:
 
 - **Interactive Visualization**  
   - Allows users to explore state population data dynamically.
@@ -16,3 +14,5 @@
 
 - **Hover Tooltips**  
   - Provides detailed insights by showing population trends over time when hovering over individual states.
+
+![state_dashboard](https://github.com/user-attachments/assets/c844fae0-ead4-4474-ae91-8acd50bde896)
